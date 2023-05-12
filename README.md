@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **CSS, HTML, JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://shalininayan.github.io/Shalini_Portfolio/](https://shalininayan.github.io/Shalini_Portfolio/) 
+- 👨‍💻 [Portfolio](https://shalininayan.github.io/Shalini_Portfolio/) 
 
 - 📫 How to reach me **shalininayan.microverse@gmail.com**
 
