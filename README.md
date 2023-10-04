@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalininayan&label=Profile%20views&color=0e75b6&style=flat" alt="shalininayan" /> </p>
 
-- 🌱 I’m currently learning **CSS, HTML, JavaScript**
+- 🌱 I’m currently learning **CSS, HTML, JavaScript, React js, Ruby on Rails**
 
 - 👨‍💻 [Portfolio](https://shalininayan.github.io/Portfolio/) 
 
