@@ -11,7 +11,7 @@
 
 - 👨‍💻 [Portfolio](https://shalininayan.github.io/Portfolio/) 
 
-- 📫 How to reach me **shalininayan.microverse@gmail.com**
+- 📫 How to reach me **shalinenayan@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
